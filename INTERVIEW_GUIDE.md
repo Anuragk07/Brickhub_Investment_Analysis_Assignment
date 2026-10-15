@@ -258,42 +258,48 @@ We do not rely on a single lucky point estimate. We validate recommendation stab
 
 ```
 e:\Anurags Assignment\
-├── Brickhub_Investment_Analysis.ipynb # Complete pre-executed Jupyter Notebook (Charts & Narrative)
-├── app.py                      # Interactive Streamlit application (6 pages)
-├── make_deliverables.py        # PDF & Word report generator (ReportLab & docx)
-├── generate_raw_datasets.py    # Script that generates calibrated raw datasets
-├── requirements.txt            # Python dependencies (Streamlit, Pandas, Plotly, etc.)
-├── src/
-│   ├── engine.py               # Core math: formulas, weights, ranking & stress tests
-│   └── pipeline.py             # Data aggregator: joins raw CSVs into master matrix
-├── data/
-│   ├── igr_transactions.csv    # 682 raw IGR registered sales deeds
-│   ├── rera_projects.csv       # Raw MahaRERA project inventory disclosures
-│   ├── rental_listings.csv     # Raw rental asking and lease records
-│   ├── infrastructure.csv      # 13 verified transit and road projects
-│   ├── synthetic_observed.csv  # 12-market master table with simulated missingness
-│   └── synthetic_truth.csv     # 12-market complete ground-truth table
-├── tests/
-│   └── test_engine.py          # 12 automated unit tests (deterministic, schemas, math)
-└── docs/
-    ├── design_note.pdf / .docx
-    ├── method_note.pdf / .docx
-    ├── analysis_recommendation.pdf / .docx
-    └── walkthrough.pdf / .docx
+├── Brickhub_Investment_Analysis.ipynb # Complete pre-executed Jupyter Notebook (Primary Deliverable)
+├── INTERVIEW_GUIDE.md                  # Comprehensive interview preparation guide & technical Q&A
+├── requirements.txt                    # Minimal Python dependencies
+│
+├── src/                                # Core Modular Python Package
+│   ├── __init__.py
+│   ├── engine.py                       # Mathematical formulas, MCDA scoring, stress tests, validation
+│   └── pipeline.py                     # Raw dataset aggregation & master matrix builder
+│
+├── data/                               # Grounded Raw & Matrix Datasets
+│   ├── igr_transactions.csv            # 682 raw IGR registered sales deeds across 2 annual windows
+│   ├── rera_projects.csv               # Raw MahaRERA project quarterly inventory disclosures
+│   ├── rental_listings.csv             # Raw rental listings and leave-and-license signed lease data
+│   ├── infrastructure.csv              # 13 verified public transit projects (PMRDA, Maha Metro, NHAI)
+│   ├── synthetic_observed.csv          # 12-market input matrix with simulated real-world reporting gaps
+│   ├── synthetic_truth.csv             # 12-market complete baseline matrix
+│   └── public_evidence_template.csv    # Per-cell data provenance audit template
+│
+├── docs/                               # Formal Submission Deliverables
+│   ├── design_note.pdf / .docx         # Pre-build design blueprint & decision context
+│   ├── method_note.pdf / .docx         # Quantitative methodology & algorithmic specification
+│   ├── analysis_recommendation.pdf     # Executive report with embedded charts and sensitivity tables
+│   └── walkthrough.pdf / .docx         # 15-minute presentation & interview walkthrough script
+│
+└── tests/
+    └── test_engine.py                  # 13 automated unit tests verifying math, schemas, and stability
 ```
 
 ---
 
-## 10. Streamlit UI Walkthrough
+## 10. Jupyter Notebook Walkthrough
 
-The web dashboard is organized into 6 intuitive, client-ready pages:
+The core deliverable `Brickhub_Investment_Analysis.ipynb` is structured into sequential analytical phases:
 
-1. **🏠 Home & Top 3:** Top 3 medal cards (🥇 Hinjewadi, 🥈 Kharadi, 🥉 Baner), horizontal bar chart of composite scores, expandable factor driver breakdowns, and financial disclaimer.
-2. **📂 Data Explorer:** 5 dedicated tabs inspecting the Master Matrix, Raw IGR Deeds, MahaRERA Filings, Rental Listings, and Verified Infrastructure, plus a Missing Data Heatmap.
-3. **⚙️ How Scoring Works:** Detailed factor explanations with highlighted formula cards, interactive weight adjustment sliders (with real-time $100\%$ validation), and missing-data strategy breakdown.
-4. **📊 All Market Rankings:** Complete 12-market table with score progress bars, stacked factor decomposition charts, and cross-strategy rank comparison pivot.
-5. **🧪 Stress Tests:** Interactive Monte Carlo simulation slider, Top-3 retention frequency chart with an $80\%$ threshold reference line, data noise trials, and Leave-One-Out validation table.
-6. **📥 Download Reports:** One-click CSV downloads (Rankings, Indicators, Provenance Template), an auditable SHA-256 reproducibility manifest, and deliverable document summaries.
+1. **Setup & Ingestion:** Loads `pandas`, `matplotlib`, `numpy`, and imports modular components from `src/`. Loads all 4 raw datasets.
+2. **Pipeline Aggregation:** Aggregates transactions, filings, and rents into the 12-market master input matrix.
+3. **Feature Engineering:** Computes the 7 derived investment metrics (growth, yield, absorption, overhang, infra, liquidity, risk).
+4. **Missing-Data Comparison:** Demonstrates transparent handling across `median`, `conservative`, and `complete-case` assumptions.
+5. **MCDA Scoring Engine:** Applies Min-Max scaling, inverts inventory overhang, applies weights, and ranks markets.
+6. **Visual Analytics:** Generates composite score bar charts and stacked factor attribution graphs.
+7. **Robustness Lab:** Executes 500-trial Monte Carlo Dirichlet simulations, 200 data noise trials, and Leave-One-Out checks.
+8. **Commercial Recommendations:** Deep-dives into the investment thesis and risk factors for Hinjewadi (#1), Kharadi (#2), and Baner (#3).
 
 ---
 
