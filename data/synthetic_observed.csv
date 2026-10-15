@@ -1,0 +1,13 @@
+market_id,locality,city,asset_class,median_price_inr_sqft,prior_year_median_price_inr_sqft,monthly_rent_inr,representative_area_sqft,transactions_12m,previous_transactions_12m,units_launched_12m,units_sold_12m,unsold_units,infrastructure_score,risk_score,premium_to_peer_pct,data_class,is_synthetic
+PUN-01,Baner,Pune,apartment,9450.0,8600.0,31000.0,950,2450,2280.0,1450.0,1580,,88.0,25.0,8.5,hybrid_grounded,False
+PUN-02,Wakad,Pune,apartment,8100.0,7350.0,,1025,2850,2600.0,2200.0,2150,1950.0,85.0,32.0,2.0,hybrid_grounded,False
+PUN-03,Kharadi,Pune,apartment,8900.0,8050.0,29000.0,850,3100,2750.0,,2750,2100.0,82.0,28.0,7.2,hybrid_grounded,False
+PUN-04,Hadapsar,Pune,apartment,7450.0,6850.0,24000.0,950,1820,1750.0,1300.0,1220,1850.0,75.0,35.0,-4.5,hybrid_grounded,False
+PUN-05,Hinjewadi,Pune,apartment,7650.0,6800.0,25500.0,1000,2980,2520.0,2800.0,2950,2350.0,92.0,30.0,-3.2,hybrid_grounded,False
+PUN-06,Balewadi,Pune,apartment,9200.0,8400.0,29500.0,1025,2150,1980.0,1350.0,1420,1180.0,89.0,26.0,5.0,hybrid_grounded,False
+PUN-07,Bavdhan,Pune,apartment,8400.0,7750.0,26000.0,1050,1680,,950.0,910,1020.0,68.0,24.0,-1.8,hybrid_grounded,False
+PUN-08,Aundh,Pune,apartment,11500.0,10650.0,35000.0,1100,1420,1380.0,480.0,510,420.0,84.0,22.0,18.5,hybrid_grounded,False
+PUN-09,Wagholi,Pune,apartment,5850.0,,18500.0,950,2750,2480.0,2400.0,2100,2800.0,72.0,55.0,-15.0,hybrid_grounded,False
+PUN-10,Pimple Saudagar,Pune,apartment,7950.0,7300.0,25000.0,950,1850,1780.0,650.0,680,620.0,74.0,24.0,1.5,hybrid_grounded,False
+PUN-11,Kothrud,Pune,apartment,13200.0,11900.0,42000.0,975,1350,1290.0,520.0,550,490.0,86.0,20.0,25.0,hybrid_grounded,False
+PUN-12,Undri,Pune,apartment,5400.0,5000.0,17000.0,1000,1580,1510.0,1400.0,1150,1920.0,55.0,48.0,-18.5,hybrid_grounded,False

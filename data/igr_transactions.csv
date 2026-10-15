@@ -1,0 +1,682 @@
+transaction_id,transaction_date,locality,project_name,property_type,agreement_value_inr,carpet_area_sqft,bhk
+TXN-MH-PUN-10001,2026-02-08,Baner,Kalpataru Jade Residences,Apartment,8310000,862,2
+TXN-MH-PUN-10002,2025-12-18,Baner,Pride Platinum,Apartment,11510000,1187,3
+TXN-MH-PUN-10003,2025-09-12,Baner,Kalpataru Jade Residences,Apartment,5570000,597,1
+TXN-MH-PUN-10004,2025-10-17,Baner,Kasturi The Balmoral,Apartment,10000000,1025,2
+TXN-MH-PUN-10005,2025-10-20,Baner,Rohan Leher,Apartment,6780000,750,2
+TXN-MH-PUN-10006,2025-12-12,Baner,VTP Verve,Apartment,9630000,993,2
+TXN-MH-PUN-10007,2026-02-20,Baner,Pride Platinum,Apartment,12900000,1328,3
+TXN-MH-PUN-10008,2025-10-17,Baner,Kalpataru Jade Residences,Apartment,7070000,784,2
+TXN-MH-PUN-10009,2025-12-28,Baner,Kasturi The Balmoral,Apartment,10130000,1024,2
+TXN-MH-PUN-10010,2026-01-16,Baner,Rohan Leher,Apartment,7790000,827,2
+TXN-MH-PUN-10011,2025-09-21,Baner,Kasturi The Balmoral,Apartment,5290000,576,1
+TXN-MH-PUN-10012,2025-11-16,Baner,Rohan Leher,Apartment,9190000,941,2
+TXN-MH-PUN-10013,2026-01-29,Baner,Kalpataru Jade Residences,Apartment,9480000,973,2
+TXN-MH-PUN-10014,2025-11-19,Baner,VTP Verve,Apartment,8150000,847,2
+TXN-MH-PUN-10015,2025-04-03,Baner,Kasturi The Balmoral,Apartment,9580000,985,2
+TXN-MH-PUN-10016,2025-10-20,Baner,Kalpataru Jade Residences,Apartment,9120000,939,2
+TXN-MH-PUN-10017,2025-05-22,Baner,Rohan Leher,Apartment,6650000,732,2
+TXN-MH-PUN-10018,2025-04-29,Baner,Rohan Leher,Apartment,8940000,940,2
+TXN-MH-PUN-10019,2025-10-20,Baner,Kalpataru Jade Residences,Apartment,8610000,906,2
+TXN-MH-PUN-10020,2026-03-25,Baner,Kalpataru Jade Residences,Apartment,4900000,522,1
+TXN-MH-PUN-10021,2026-02-06,Baner,Pride Platinum,Apartment,9630000,1047,2
+TXN-MH-PUN-10022,2025-09-06,Baner,VTP Verve,Apartment,6840000,739,2
+TXN-MH-PUN-10023,2026-01-12,Baner,Kalpataru Jade Residences,Apartment,8510000,886,2
+TXN-MH-PUN-10024,2025-08-01,Baner,Rohan Leher,Apartment,11990000,1312,3
+TXN-MH-PUN-10025,2025-12-20,Baner,Kasturi The Balmoral,Apartment,5540000,588,1
+TXN-MH-PUN-10026,2025-09-29,Baner,Kalpataru Jade Residences,Apartment,7050000,773,2
+TXN-MH-PUN-10027,2024-12-06,Baner,Rohan Leher,Apartment,7310000,867,2
+TXN-MH-PUN-10028,2024-05-02,Baner,Kalpataru Jade Residences,Apartment,8570000,1036,2
+TXN-MH-PUN-10029,2024-09-14,Baner,Pride Platinum,Apartment,13460000,1534,3
+TXN-MH-PUN-10030,2025-01-10,Baner,Pride Platinum,Apartment,11030000,1255,3
+TXN-MH-PUN-10031,2024-09-11,Baner,Kalpataru Jade Residences,Apartment,7160000,868,2
+TXN-MH-PUN-10032,2024-06-13,Baner,VTP Verve,Apartment,8030000,952,2
+TXN-MH-PUN-10033,2024-04-08,Baner,VTP Verve,Apartment,8110000,911,2
+TXN-MH-PUN-10034,2024-09-05,Baner,Kalpataru Jade Residences,Apartment,8170000,938,2
+TXN-MH-PUN-10035,2025-01-02,Baner,Kasturi The Balmoral,Apartment,7520000,912,2
+TXN-MH-PUN-10036,2024-09-28,Baner,Rohan Leher,Apartment,4270000,505,1
+TXN-MH-PUN-10037,2025-01-15,Baner,Kalpataru Jade Residences,Apartment,4340000,500,1
+TXN-MH-PUN-10038,2024-10-30,Baner,Kasturi The Balmoral,Apartment,13080000,1545,3
+TXN-MH-PUN-10039,2024-08-31,Baner,Kalpataru Jade Residences,Apartment,5050000,562,1
+TXN-MH-PUN-10040,2024-05-01,Baner,Rohan Leher,Apartment,6360000,741,2
+TXN-MH-PUN-10041,2024-10-15,Baner,Kalpataru Jade Residences,Apartment,11660000,1346,3
+TXN-MH-PUN-10042,2024-07-31,Baner,Rohan Leher,Apartment,8910000,1034,2
+TXN-MH-PUN-10043,2024-04-04,Baner,VTP Verve,Apartment,4800000,541,1
+TXN-MH-PUN-10044,2024-10-20,Baner,VTP Verve,Apartment,4310000,522,1
+TXN-MH-PUN-10045,2024-12-23,Baner,Kalpataru Jade Residences,Apartment,8220000,941,2
+TXN-MH-PUN-10046,2024-05-10,Baner,Kalpataru Jade Residences,Apartment,7390000,825,2
+TXN-MH-PUN-10047,2024-10-17,Baner,VTP Verve,Apartment,4430000,512,1
+TXN-MH-PUN-10048,2025-01-21,Baner,Pride Platinum,Apartment,11260000,1334,3
+TXN-MH-PUN-10049,2025-02-25,Baner,Pride Platinum,Apartment,8910000,1034,2
+TXN-MH-PUN-10050,2024-05-31,Baner,Pride Platinum,Apartment,10030000,1222,3
+TXN-MH-PUN-10051,2024-05-04,Baner,Pride Platinum,Apartment,11830000,1324,3
+TXN-MH-PUN-10052,2025-02-21,Baner,Kalpataru Jade Residences,Apartment,10680000,1239,3
+TXN-MH-PUN-10053,2024-08-28,Baner,Rohan Leher,Apartment,7200000,824,2
+TXN-MH-PUN-10054,2024-12-29,Baner,Pride Platinum,Apartment,4890000,583,1
+TXN-MH-PUN-10055,2025-05-15,Wakad,Akshay Park,Apartment,6110000,730,2
+TXN-MH-PUN-10056,2025-12-19,Wakad,Akshay Park,Apartment,6300000,770,2
+TXN-MH-PUN-10057,2025-07-23,Wakad,Akshay Park,Apartment,6760000,812,2
+TXN-MH-PUN-10058,2026-03-08,Wakad,Rohan Tarang,Apartment,8120000,1040,2
+TXN-MH-PUN-10059,2025-05-19,Wakad,Kolte Patil Western Avenue,Apartment,6690000,812,2
+TXN-MH-PUN-10060,2026-01-05,Wakad,Akshay Park,Apartment,6280000,760,2
+TXN-MH-PUN-10061,2026-01-19,Wakad,Paranjape Blue Ridge Annex,Apartment,8320000,1005,2
+TXN-MH-PUN-10062,2025-10-25,Wakad,Kolte Patil Western Avenue,Apartment,4540000,583,1
+TXN-MH-PUN-10063,2025-07-19,Wakad,Akshay Park,Apartment,8420000,1041,2
+TXN-MH-PUN-10064,2026-03-17,Wakad,Paranjape Blue Ridge Annex,Apartment,11220000,1415,3
+TXN-MH-PUN-10065,2025-10-20,Wakad,Akshay Park,Apartment,4620000,563,1
+TXN-MH-PUN-10066,2025-04-03,Wakad,Akshay Park,Apartment,3970000,494,1
+TXN-MH-PUN-10067,2026-03-07,Wakad,Akshay Park,Apartment,6500000,779,2
+TXN-MH-PUN-10068,2025-11-29,Wakad,Paranjape Blue Ridge Annex,Apartment,6740000,874,2
+TXN-MH-PUN-10069,2026-01-16,Wakad,Kolte Patil Western Avenue,Apartment,9850000,1250,3
+TXN-MH-PUN-10070,2025-12-31,Wakad,Rohan Tarang,Apartment,7520000,895,2
+TXN-MH-PUN-10071,2025-08-15,Wakad,Sukhwani Palms,Apartment,6100000,759,2
+TXN-MH-PUN-10072,2025-10-11,Wakad,Kolte Patil Western Avenue,Apartment,11370000,1410,3
+TXN-MH-PUN-10073,2025-12-29,Wakad,Rohan Tarang,Apartment,8760000,1048,2
+TXN-MH-PUN-10074,2025-08-09,Wakad,Akshay Park,Apartment,4040000,494,1
+TXN-MH-PUN-10075,2025-07-23,Wakad,Kolte Patil Western Avenue,Apartment,9980000,1277,3
+TXN-MH-PUN-10076,2025-10-28,Wakad,Akshay Park,Apartment,8110000,1023,2
+TXN-MH-PUN-10077,2025-04-08,Wakad,Kolte Patil Western Avenue,Apartment,4300000,555,1
+TXN-MH-PUN-10078,2025-10-06,Wakad,Kolte Patil Western Avenue,Apartment,4120000,504,1
+TXN-MH-PUN-10079,2025-07-26,Wakad,Sukhwani Palms,Apartment,8050000,993,2
+TXN-MH-PUN-10080,2025-09-27,Wakad,Sukhwani Palms,Apartment,11600000,1500,3
+TXN-MH-PUN-10081,2025-03-13,Wakad,Akshay Park,Apartment,5910000,798,2
+TXN-MH-PUN-10082,2024-08-15,Wakad,Paranjape Blue Ridge Annex,Apartment,3540000,480,1
+TXN-MH-PUN-10083,2024-08-26,Wakad,Akshay Park,Apartment,8350000,1190,3
+TXN-MH-PUN-10084,2025-02-02,Wakad,Akshay Park,Apartment,4560000,597,1
+TXN-MH-PUN-10085,2024-11-16,Wakad,Rohan Tarang,Apartment,11640000,1541,3
+TXN-MH-PUN-10086,2024-05-20,Wakad,Sukhwani Palms,Apartment,7100000,963,2
+TXN-MH-PUN-10087,2025-01-12,Wakad,Rohan Tarang,Apartment,9920000,1355,3
+TXN-MH-PUN-10088,2024-07-07,Wakad,Rohan Tarang,Apartment,5680000,802,2
+TXN-MH-PUN-10089,2024-08-02,Wakad,Paranjape Blue Ridge Annex,Apartment,6270000,877,2
+TXN-MH-PUN-10090,2024-07-29,Wakad,Rohan Tarang,Apartment,6990000,963,2
+TXN-MH-PUN-10091,2024-12-01,Wakad,Kolte Patil Western Avenue,Apartment,7270000,946,2
+TXN-MH-PUN-10092,2024-07-29,Wakad,Akshay Park,Apartment,7180000,974,2
+TXN-MH-PUN-10093,2024-10-19,Wakad,Akshay Park,Apartment,7570000,1000,2
+TXN-MH-PUN-10094,2024-07-15,Wakad,Paranjape Blue Ridge Annex,Apartment,5590000,743,2
+TXN-MH-PUN-10095,2025-03-02,Wakad,Kolte Patil Western Avenue,Apartment,5990000,786,2
+TXN-MH-PUN-10096,2024-05-05,Wakad,Kolte Patil Western Avenue,Apartment,6980000,929,2
+TXN-MH-PUN-10097,2025-03-17,Wakad,Paranjape Blue Ridge Annex,Apartment,8380000,1183,3
+TXN-MH-PUN-10098,2024-11-03,Wakad,Akshay Park,Apartment,9920000,1312,3
+TXN-MH-PUN-10099,2024-12-20,Wakad,Akshay Park,Apartment,10520000,1468,3
+TXN-MH-PUN-10100,2024-11-11,Wakad,Paranjape Blue Ridge Annex,Apartment,3920000,552,1
+TXN-MH-PUN-10101,2024-12-04,Wakad,Kolte Patil Western Avenue,Apartment,6640000,906,2
+TXN-MH-PUN-10102,2025-01-17,Wakad,Paranjape Blue Ridge Annex,Apartment,7510000,1023,2
+TXN-MH-PUN-10103,2025-01-12,Wakad,Rohan Tarang,Apartment,9820000,1389,3
+TXN-MH-PUN-10104,2026-03-03,Kharadi,VTP Beaumonde,Apartment,6600000,748,2
+TXN-MH-PUN-10105,2025-07-31,Kharadi,VTP Beaumonde,Apartment,8890000,961,2
+TXN-MH-PUN-10106,2025-10-12,Kharadi,EON Waterfront,Apartment,8520000,971,2
+TXN-MH-PUN-10107,2025-05-24,Kharadi,Panchshil Towers,Apartment,9630000,1037,2
+TXN-MH-PUN-10108,2025-06-04,Kharadi,Kolte Patil Downtown,Apartment,7870000,864,2
+TXN-MH-PUN-10109,2026-01-10,Kharadi,Kolte Patil Downtown,Apartment,11490000,1294,3
+TXN-MH-PUN-10110,2026-02-03,Kharadi,Gera World of Joy,Apartment,11820000,1300,3
+TXN-MH-PUN-10111,2026-02-05,Kharadi,EON Waterfront,Apartment,4660000,517,1
+TXN-MH-PUN-10112,2025-10-16,Kharadi,Gera World of Joy,Apartment,6890000,760,2
+TXN-MH-PUN-10113,2026-01-27,Kharadi,Gera World of Joy,Apartment,8350000,958,2
+TXN-MH-PUN-10114,2025-10-06,Kharadi,EON Waterfront,Apartment,7600000,871,2
+TXN-MH-PUN-10115,2025-05-11,Kharadi,EON Waterfront,Apartment,8400000,899,2
+TXN-MH-PUN-10116,2025-04-16,Kharadi,Gera World of Joy,Apartment,9290000,1010,2
+TXN-MH-PUN-10117,2025-11-29,Kharadi,Gera World of Joy,Apartment,10470000,1159,3
+TXN-MH-PUN-10118,2025-06-29,Kharadi,VTP Beaumonde,Apartment,10060000,1186,3
+TXN-MH-PUN-10119,2026-01-09,Kharadi,Panchshil Towers,Apartment,5170000,599,1
+TXN-MH-PUN-10120,2025-04-02,Kharadi,Gera World of Joy,Apartment,8660000,1020,2
+TXN-MH-PUN-10121,2025-11-08,Kharadi,Gera World of Joy,Apartment,5450000,594,1
+TXN-MH-PUN-10122,2025-12-01,Kharadi,EON Waterfront,Apartment,10590000,1245,3
+TXN-MH-PUN-10123,2026-01-07,Kharadi,EON Waterfront,Apartment,10870000,1198,3
+TXN-MH-PUN-10124,2025-05-12,Kharadi,EON Waterfront,Apartment,5150000,597,1
+TXN-MH-PUN-10125,2025-12-28,Kharadi,Gera World of Joy,Apartment,8100000,898,2
+TXN-MH-PUN-10126,2025-04-20,Kharadi,Gera World of Joy,Apartment,9110000,1000,2
+TXN-MH-PUN-10127,2025-12-16,Kharadi,Gera World of Joy,Apartment,7010000,752,2
+TXN-MH-PUN-10128,2025-04-02,Kharadi,VTP Beaumonde,Apartment,5090000,565,1
+TXN-MH-PUN-10129,2025-12-15,Kharadi,Gera World of Joy,Apartment,11480000,1333,3
+TXN-MH-PUN-10130,2025-11-03,Kharadi,Panchshil Towers,Apartment,7000000,750,2
+TXN-MH-PUN-10131,2024-09-10,Kharadi,Kolte Patil Downtown,Apartment,7930000,978,2
+TXN-MH-PUN-10132,2024-07-19,Kharadi,Gera World of Joy,Apartment,11080000,1366,3
+TXN-MH-PUN-10133,2024-05-28,Kharadi,Kolte Patil Downtown,Apartment,7980000,950,2
+TXN-MH-PUN-10134,2024-08-26,Kharadi,Gera World of Joy,Apartment,7600000,947,2
+TXN-MH-PUN-10135,2024-05-05,Kharadi,Gera World of Joy,Apartment,3900000,496,1
+TXN-MH-PUN-10136,2024-11-10,Kharadi,Panchshil Towers,Apartment,7990000,979,2
+TXN-MH-PUN-10137,2025-03-13,Kharadi,EON Waterfront,Apartment,6690000,855,2
+TXN-MH-PUN-10138,2024-04-14,Kharadi,Kolte Patil Downtown,Apartment,8170000,1023,2
+TXN-MH-PUN-10139,2024-08-07,Kharadi,Kolte Patil Downtown,Apartment,7100000,876,2
+TXN-MH-PUN-10140,2024-11-23,Kharadi,Kolte Patil Downtown,Apartment,7360000,900,2
+TXN-MH-PUN-10141,2024-06-11,Kharadi,VTP Beaumonde,Apartment,6670000,824,2
+TXN-MH-PUN-10142,2024-08-10,Kharadi,Kolte Patil Downtown,Apartment,7200000,893,2
+TXN-MH-PUN-10143,2025-02-05,Kharadi,EON Waterfront,Apartment,12110000,1444,3
+TXN-MH-PUN-10144,2025-01-17,Kharadi,Kolte Patil Downtown,Apartment,6380000,808,2
+TXN-MH-PUN-10145,2024-04-21,Kharadi,Kolte Patil Downtown,Apartment,7710000,996,2
+TXN-MH-PUN-10146,2024-04-21,Kharadi,Gera World of Joy,Apartment,11640000,1478,3
+TXN-MH-PUN-10147,2024-04-25,Kharadi,Kolte Patil Downtown,Apartment,6560000,830,2
+TXN-MH-PUN-10148,2025-01-27,Kharadi,VTP Beaumonde,Apartment,4510000,541,1
+TXN-MH-PUN-10149,2024-11-30,Kharadi,Kolte Patil Downtown,Apartment,6850000,842,2
+TXN-MH-PUN-10150,2025-03-16,Kharadi,Gera World of Joy,Apartment,7480000,885,2
+TXN-MH-PUN-10151,2024-05-23,Kharadi,Kolte Patil Downtown,Apartment,7990000,974,2
+TXN-MH-PUN-10152,2024-11-20,Kharadi,VTP Beaumonde,Apartment,7850000,1025,2
+TXN-MH-PUN-10153,2024-12-16,Kharadi,VTP Beaumonde,Apartment,6130000,788,2
+TXN-MH-PUN-10154,2025-03-28,Kharadi,Gera World of Joy,Apartment,12290000,1518,3
+TXN-MH-PUN-10155,2024-10-01,Kharadi,Panchshil Towers,Apartment,11530000,1485,3
+TXN-MH-PUN-10156,2024-04-30,Kharadi,Kolte Patil Downtown,Apartment,6840000,828,2
+TXN-MH-PUN-10157,2025-05-25,Hadapsar,Shapoorji Joyville Hadapsar,Apartment,7380000,1023,2
+TXN-MH-PUN-10158,2025-06-10,Hadapsar,Magarpatta City Trillium,Apartment,4390000,606,1
+TXN-MH-PUN-10159,2025-11-01,Hadapsar,Magarpatta City Trillium,Apartment,7800000,1048,2
+TXN-MH-PUN-10160,2026-02-06,Hadapsar,Amanora Park Town,Apartment,5760000,747,2
+TXN-MH-PUN-10161,2025-12-01,Hadapsar,Marvel Bounty,Apartment,6530000,854,2
+TXN-MH-PUN-10162,2026-02-16,Hadapsar,Marvel Bounty,Apartment,5530000,739,2
+TXN-MH-PUN-10163,2025-09-24,Hadapsar,Magarpatta City Trillium,Apartment,9810000,1282,3
+TXN-MH-PUN-10164,2025-07-21,Hadapsar,Marvel Bounty,Apartment,7760000,1001,2
+TXN-MH-PUN-10165,2025-08-03,Hadapsar,Shapoorji Joyville Hadapsar,Apartment,9710000,1303,3
+TXN-MH-PUN-10166,2026-03-31,Hadapsar,Kumar Prospera,Apartment,4090000,554,1
+TXN-MH-PUN-10167,2025-06-04,Hadapsar,Kumar Prospera,Apartment,6220000,849,2
+TXN-MH-PUN-10168,2025-12-09,Hadapsar,Magarpatta City Trillium,Apartment,3930000,506,1
+TXN-MH-PUN-10169,2025-11-05,Hadapsar,Shapoorji Joyville Hadapsar,Apartment,5430000,766,2
+TXN-MH-PUN-10170,2025-12-17,Hadapsar,Shapoorji Joyville Hadapsar,Apartment,6120000,811,2
+TXN-MH-PUN-10171,2025-09-22,Hadapsar,Kumar Prospera,Apartment,7720000,1010,2
+TXN-MH-PUN-10172,2025-11-14,Hadapsar,Marvel Bounty,Apartment,7940000,1018,2
+TXN-MH-PUN-10173,2025-05-12,Hadapsar,Marvel Bounty,Apartment,8990000,1179,3
+TXN-MH-PUN-10174,2025-08-31,Hadapsar,Kumar Prospera,Apartment,6540000,865,2
+TXN-MH-PUN-10175,2025-07-15,Hadapsar,Kumar Prospera,Apartment,9230000,1211,3
+TXN-MH-PUN-10176,2025-07-18,Hadapsar,Kumar Prospera,Apartment,6930000,967,2
+TXN-MH-PUN-10177,2025-09-26,Hadapsar,Amanora Park Town,Apartment,8100000,1037,2
+TXN-MH-PUN-10178,2025-04-28,Hadapsar,Kumar Prospera,Apartment,9860000,1335,3
+TXN-MH-PUN-10179,2025-10-20,Hadapsar,Marvel Bounty,Apartment,3920000,511,1
+TXN-MH-PUN-10180,2025-04-21,Hadapsar,Magarpatta City Trillium,Apartment,10790000,1519,3
+TXN-MH-PUN-10181,2025-05-10,Hadapsar,Magarpatta City Trillium,Apartment,4030000,531,1
+TXN-MH-PUN-10182,2025-12-27,Hadapsar,Marvel Bounty,Apartment,7370000,955,2
+TXN-MH-PUN-10183,2024-05-08,Hadapsar,Magarpatta City Trillium,Apartment,3950000,592,1
+TXN-MH-PUN-10184,2024-04-02,Hadapsar,Marvel Bounty,Apartment,9100000,1327,3
+TXN-MH-PUN-10185,2024-12-12,Hadapsar,Magarpatta City Trillium,Apartment,3890000,574,1
+TXN-MH-PUN-10186,2024-06-26,Hadapsar,Kumar Prospera,Apartment,5700000,804,2
+TXN-MH-PUN-10187,2024-12-16,Hadapsar,Shapoorji Joyville Hadapsar,Apartment,8650000,1289,3
+TXN-MH-PUN-10188,2024-07-10,Hadapsar,Shapoorji Joyville Hadapsar,Apartment,5390000,757,2
+TXN-MH-PUN-10189,2024-09-12,Hadapsar,Kumar Prospera,Apartment,3410000,506,1
+TXN-MH-PUN-10190,2025-03-31,Hadapsar,Marvel Bounty,Apartment,9150000,1363,3
+TXN-MH-PUN-10191,2024-06-08,Hadapsar,Marvel Bounty,Apartment,3710000,537,1
+TXN-MH-PUN-10192,2024-11-04,Hadapsar,Kumar Prospera,Apartment,6520000,962,2
+TXN-MH-PUN-10193,2024-05-08,Hadapsar,Shapoorji Joyville Hadapsar,Apartment,6740000,1022,2
+TXN-MH-PUN-10194,2024-06-13,Hadapsar,Magarpatta City Trillium,Apartment,3450000,529,1
+TXN-MH-PUN-10195,2024-09-12,Hadapsar,Magarpatta City Trillium,Apartment,5860000,869,2
+TXN-MH-PUN-10196,2024-12-31,Hadapsar,Shapoorji Joyville Hadapsar,Apartment,10550000,1534,3
+TXN-MH-PUN-10197,2024-10-22,Hadapsar,Kumar Prospera,Apartment,8420000,1263,3
+TXN-MH-PUN-10198,2024-10-11,Hadapsar,Magarpatta City Trillium,Apartment,8920000,1272,3
+TXN-MH-PUN-10199,2025-02-06,Hadapsar,Magarpatta City Trillium,Apartment,6140000,914,2
+TXN-MH-PUN-10200,2024-05-27,Hadapsar,Magarpatta City Trillium,Apartment,5530000,778,2
+TXN-MH-PUN-10201,2024-10-31,Hadapsar,Amanora Park Town,Apartment,5730000,813,2
+TXN-MH-PUN-10202,2024-09-21,Hadapsar,Marvel Bounty,Apartment,7220000,1004,2
+TXN-MH-PUN-10203,2024-07-07,Hadapsar,Shapoorji Joyville Hadapsar,Apartment,10110000,1419,3
+TXN-MH-PUN-10204,2024-10-23,Hadapsar,Marvel Bounty,Apartment,5100000,776,2
+TXN-MH-PUN-10205,2025-03-08,Hadapsar,Shapoorji Joyville Hadapsar,Apartment,9680000,1411,3
+TXN-MH-PUN-10206,2025-03-17,Hadapsar,Shapoorji Joyville Hadapsar,Apartment,4020000,611,1
+TXN-MH-PUN-10207,2025-03-26,Hadapsar,Magarpatta City Trillium,Apartment,4800000,733,2
+TXN-MH-PUN-10208,2024-07-24,Hadapsar,Shapoorji Joyville Hadapsar,Apartment,6410000,980,2
+TXN-MH-PUN-10209,2025-02-22,Hadapsar,Kumar Prospera,Apartment,4950000,756,2
+TXN-MH-PUN-10210,2024-07-20,Hadapsar,Marvel Bounty,Apartment,7060000,1042,2
+TXN-MH-PUN-10211,2024-08-30,Hadapsar,Magarpatta City Trillium,Apartment,3540000,538,1
+TXN-MH-PUN-10212,2025-04-11,Hinjewadi,Megapolis Sparklet,Apartment,5500000,720,2
+TXN-MH-PUN-10213,2026-01-10,Hinjewadi,TCG The Crown Greens,Apartment,7130000,901,2
+TXN-MH-PUN-10214,2026-02-28,Hinjewadi,Kolte Patil Life Republic,Apartment,6000000,805,2
+TXN-MH-PUN-10215,2025-06-23,Hinjewadi,Kolte Patil Life Republic,Apartment,6240000,830,2
+TXN-MH-PUN-10216,2026-02-10,Hinjewadi,TCG The Crown Greens,Apartment,4650000,610,1
+TXN-MH-PUN-10217,2025-04-18,Hinjewadi,Godrej 24,Apartment,6780000,919,2
+TXN-MH-PUN-10218,2026-01-24,Hinjewadi,Megapolis Sparklet,Apartment,4510000,608,1
+TXN-MH-PUN-10219,2025-11-13,Hinjewadi,Megapolis Sparklet,Apartment,4310000,578,1
+TXN-MH-PUN-10220,2025-09-28,Hinjewadi,Megapolis Sparklet,Apartment,7180000,907,2
+TXN-MH-PUN-10221,2025-11-12,Hinjewadi,Megapolis Sparklet,Apartment,10080000,1363,3
+TXN-MH-PUN-10222,2025-06-30,Hinjewadi,Rohan Prathama,Apartment,10890000,1459,3
+TXN-MH-PUN-10223,2025-11-07,Hinjewadi,Rohan Prathama,Apartment,8330000,1039,2
+TXN-MH-PUN-10224,2025-10-18,Hinjewadi,Megapolis Sparklet,Apartment,9720000,1294,3
+TXN-MH-PUN-10225,2025-06-18,Hinjewadi,Godrej 24,Apartment,6200000,817,2
+TXN-MH-PUN-10226,2025-12-25,Hinjewadi,Godrej 24,Apartment,3820000,524,1
+TXN-MH-PUN-10227,2025-05-31,Hinjewadi,TCG The Crown Greens,Apartment,4520000,578,1
+TXN-MH-PUN-10228,2025-05-16,Hinjewadi,Rohan Prathama,Apartment,7160000,953,2
+TXN-MH-PUN-10229,2025-05-16,Hinjewadi,Rohan Prathama,Apartment,5880000,797,2
+TXN-MH-PUN-10230,2025-05-15,Hinjewadi,Godrej 24,Apartment,7260000,948,2
+TXN-MH-PUN-10231,2025-04-07,Hinjewadi,Rohan Prathama,Apartment,4890000,609,1
+TXN-MH-PUN-10232,2025-05-04,Hinjewadi,Kolte Patil Life Republic,Apartment,4460000,561,1
+TXN-MH-PUN-10233,2025-11-13,Hinjewadi,Rohan Prathama,Apartment,5790000,774,2
+TXN-MH-PUN-10234,2025-08-04,Hinjewadi,Godrej 24,Apartment,5510000,736,2
+TXN-MH-PUN-10235,2025-04-07,Hinjewadi,Godrej 24,Apartment,9460000,1225,3
+TXN-MH-PUN-10236,2025-11-13,Hinjewadi,Megapolis Sparklet,Apartment,9270000,1242,3
+TXN-MH-PUN-10237,2025-08-23,Hinjewadi,Godrej 24,Apartment,6950000,893,2
+TXN-MH-PUN-10238,2025-12-18,Hinjewadi,Kolte Patil Life Republic,Apartment,7530000,959,2
+TXN-MH-PUN-10239,2025-10-05,Hinjewadi,Rohan Prathama,Apartment,7450000,1024,2
+TXN-MH-PUN-10240,2026-03-09,Hinjewadi,Megapolis Sparklet,Apartment,7440000,982,2
+TXN-MH-PUN-10241,2025-08-23,Hinjewadi,Megapolis Sparklet,Apartment,11000000,1412,3
+TXN-MH-PUN-10242,2025-12-05,Hinjewadi,Kolte Patil Life Republic,Apartment,8950000,1209,3
+TXN-MH-PUN-10243,2026-02-28,Hinjewadi,Megapolis Sparklet,Apartment,11460000,1543,3
+TXN-MH-PUN-10244,2025-11-22,Hinjewadi,TCG The Crown Greens,Apartment,6950000,875,2
+TXN-MH-PUN-10245,2025-12-27,Hinjewadi,TCG The Crown Greens,Apartment,5860000,749,2
+TXN-MH-PUN-10246,2024-05-09,Hinjewadi,Godrej 24,Apartment,6130000,866,2
+TXN-MH-PUN-10247,2024-04-02,Hinjewadi,Godrej 24,Apartment,6560000,1005,2
+TXN-MH-PUN-10248,2024-04-09,Hinjewadi,TCG The Crown Greens,Apartment,6200000,870,2
+TXN-MH-PUN-10249,2024-11-16,Hinjewadi,Rohan Prathama,Apartment,5960000,844,2
+TXN-MH-PUN-10250,2024-11-09,Hinjewadi,TCG The Crown Greens,Apartment,5720000,834,2
+TXN-MH-PUN-10251,2024-10-02,Hinjewadi,TCG The Crown Greens,Apartment,6070000,855,2
+TXN-MH-PUN-10252,2024-08-16,Hinjewadi,Kolte Patil Life Republic,Apartment,5590000,831,2
+TXN-MH-PUN-10253,2024-04-18,Hinjewadi,Godrej 24,Apartment,5280000,763,2
+TXN-MH-PUN-10254,2024-06-28,Hinjewadi,TCG The Crown Greens,Apartment,9400000,1440,3
+TXN-MH-PUN-10255,2024-09-22,Hinjewadi,Kolte Patil Life Republic,Apartment,9650000,1451,3
+TXN-MH-PUN-10256,2024-10-08,Hinjewadi,TCG The Crown Greens,Apartment,5950000,878,2
+TXN-MH-PUN-10257,2024-05-03,Hinjewadi,Kolte Patil Life Republic,Apartment,3500000,516,1
+TXN-MH-PUN-10258,2024-09-28,Hinjewadi,Rohan Prathama,Apartment,6160000,942,2
+TXN-MH-PUN-10259,2024-07-20,Hinjewadi,TCG The Crown Greens,Apartment,5600000,803,2
+TXN-MH-PUN-10260,2025-03-26,Hinjewadi,Rohan Prathama,Apartment,8500000,1192,3
+TXN-MH-PUN-10261,2025-03-10,Hinjewadi,TCG The Crown Greens,Apartment,4020000,613,1
+TXN-MH-PUN-10262,2024-05-06,Hinjewadi,TCG The Crown Greens,Apartment,6050000,860,2
+TXN-MH-PUN-10263,2024-04-30,Hinjewadi,Godrej 24,Apartment,6070000,923,2
+TXN-MH-PUN-10264,2025-02-05,Hinjewadi,TCG The Crown Greens,Apartment,5180000,755,2
+TXN-MH-PUN-10265,2025-01-30,Hinjewadi,Kolte Patil Life Republic,Apartment,6460000,962,2
+TXN-MH-PUN-10266,2025-01-07,Hinjewadi,Kolte Patil Life Republic,Apartment,4810000,729,2
+TXN-MH-PUN-10267,2024-12-22,Hinjewadi,Godrej 24,Apartment,4320000,611,1
+TXN-MH-PUN-10268,2025-02-03,Hinjewadi,Megapolis Sparklet,Apartment,5120000,778,2
+TXN-MH-PUN-10269,2025-02-15,Hinjewadi,Godrej 24,Apartment,5670000,856,2
+TXN-MH-PUN-10270,2025-02-14,Hinjewadi,Godrej 24,Apartment,9230000,1379,3
+TXN-MH-PUN-10271,2024-07-18,Hinjewadi,Kolte Patil Life Republic,Apartment,5930000,895,2
+TXN-MH-PUN-10272,2025-02-19,Hinjewadi,Megapolis Sparklet,Apartment,8240000,1179,3
+TXN-MH-PUN-10273,2025-10-11,Balewadi,Kunal Aspiree,Apartment,8020000,869,2
+TXN-MH-PUN-10274,2025-06-06,Balewadi,Mantra Monarch,Apartment,4780000,540,1
+TXN-MH-PUN-10275,2026-03-14,Balewadi,Mantra Monarch,Apartment,8850000,995,2
+TXN-MH-PUN-10276,2026-02-14,Balewadi,Majestique Signature Towers,Apartment,8090000,902,2
+TXN-MH-PUN-10277,2026-03-01,Balewadi,F Residences,Apartment,4530000,501,1
+TXN-MH-PUN-10278,2025-10-10,Balewadi,Mantra Monarch,Apartment,8380000,920,2
+TXN-MH-PUN-10279,2026-03-27,Balewadi,Kunal Aspiree,Apartment,9460000,997,2
+TXN-MH-PUN-10280,2026-01-28,Balewadi,Mantra Monarch,Apartment,8560000,964,2
+TXN-MH-PUN-10281,2025-04-19,Balewadi,Mantra Monarch,Apartment,8190000,904,2
+TXN-MH-PUN-10282,2025-11-19,Balewadi,F Residences,Apartment,9260000,982,2
+TXN-MH-PUN-10283,2026-03-04,Balewadi,Naiknavare Avon Vista,Apartment,7210000,789,2
+TXN-MH-PUN-10284,2025-07-12,Balewadi,Majestique Signature Towers,Apartment,5490000,569,1
+TXN-MH-PUN-10285,2025-09-15,Balewadi,Majestique Signature Towers,Apartment,4740000,535,1
+TXN-MH-PUN-10286,2025-05-26,Balewadi,Kunal Aspiree,Apartment,7010000,770,2
+TXN-MH-PUN-10287,2025-12-22,Balewadi,Mantra Monarch,Apartment,7840000,856,2
+TXN-MH-PUN-10288,2025-11-11,Balewadi,Majestique Signature Towers,Apartment,8600000,937,2
+TXN-MH-PUN-10289,2025-06-04,Balewadi,Mantra Monarch,Apartment,8460000,903,2
+TXN-MH-PUN-10290,2025-07-15,Balewadi,Mantra Monarch,Apartment,5470000,598,1
+TXN-MH-PUN-10291,2026-03-29,Balewadi,Mantra Monarch,Apartment,7480000,811,2
+TXN-MH-PUN-10292,2025-12-17,Balewadi,Naiknavare Avon Vista,Apartment,9010000,937,2
+TXN-MH-PUN-10293,2025-08-26,Balewadi,Majestique Signature Towers,Apartment,7870000,850,2
+TXN-MH-PUN-10294,2025-07-30,Balewadi,F Residences,Apartment,9160000,957,2
+TXN-MH-PUN-10295,2025-08-03,Balewadi,Kunal Aspiree,Apartment,7770000,852,2
+TXN-MH-PUN-10296,2025-07-28,Balewadi,Kunal Aspiree,Apartment,4770000,541,1
+TXN-MH-PUN-10297,2025-11-28,Balewadi,Naiknavare Avon Vista,Apartment,8420000,961,2
+TXN-MH-PUN-10298,2026-03-10,Balewadi,Mantra Monarch,Apartment,7820000,827,2
+TXN-MH-PUN-10299,2025-11-30,Balewadi,Mantra Monarch,Apartment,9050000,1021,2
+TXN-MH-PUN-10300,2025-07-12,Balewadi,Mantra Monarch,Apartment,4660000,518,1
+TXN-MH-PUN-10301,2025-06-13,Balewadi,Naiknavare Avon Vista,Apartment,13360000,1446,3
+TXN-MH-PUN-10302,2024-11-09,Balewadi,Naiknavare Avon Vista,Apartment,11320000,1382,3
+TXN-MH-PUN-10303,2024-10-07,Balewadi,Majestique Signature Towers,Apartment,8150000,926,2
+TXN-MH-PUN-10304,2024-04-09,Balewadi,Majestique Signature Towers,Apartment,7480000,899,2
+TXN-MH-PUN-10305,2024-06-04,Balewadi,Naiknavare Avon Vista,Apartment,8420000,1008,2
+TXN-MH-PUN-10306,2024-07-27,Balewadi,Mantra Monarch,Apartment,10810000,1281,3
+TXN-MH-PUN-10307,2025-01-21,Balewadi,Naiknavare Avon Vista,Apartment,7280000,881,2
+TXN-MH-PUN-10308,2025-03-04,Balewadi,Majestique Signature Towers,Apartment,13300000,1531,3
+TXN-MH-PUN-10309,2024-06-25,Balewadi,Mantra Monarch,Apartment,8980000,1042,2
+TXN-MH-PUN-10310,2024-09-14,Balewadi,Naiknavare Avon Vista,Apartment,7580000,926,2
+TXN-MH-PUN-10311,2024-09-16,Balewadi,Naiknavare Avon Vista,Apartment,7640000,932,2
+TXN-MH-PUN-10312,2024-06-19,Balewadi,Kunal Aspiree,Apartment,7050000,814,2
+TXN-MH-PUN-10313,2024-04-15,Balewadi,Majestique Signature Towers,Apartment,8010000,1003,2
+TXN-MH-PUN-10314,2025-02-01,Balewadi,Majestique Signature Towers,Apartment,6190000,764,2
+TXN-MH-PUN-10315,2024-09-12,Balewadi,Naiknavare Avon Vista,Apartment,4880000,588,1
+TXN-MH-PUN-10316,2024-05-27,Balewadi,Mantra Monarch,Apartment,8600000,1032,2
+TXN-MH-PUN-10317,2024-11-17,Balewadi,Kunal Aspiree,Apartment,12300000,1397,3
+TXN-MH-PUN-10318,2025-01-14,Balewadi,F Residences,Apartment,4610000,562,1
+TXN-MH-PUN-10319,2024-12-16,Balewadi,Kunal Aspiree,Apartment,8170000,1012,2
+TXN-MH-PUN-10320,2024-09-02,Balewadi,Mantra Monarch,Apartment,6510000,771,2
+TXN-MH-PUN-10321,2024-04-01,Balewadi,Majestique Signature Towers,Apartment,7550000,885,2
+TXN-MH-PUN-10322,2024-10-06,Balewadi,Mantra Monarch,Apartment,9370000,1162,3
+TXN-MH-PUN-10323,2024-07-18,Balewadi,Naiknavare Avon Vista,Apartment,11880000,1441,3
+TXN-MH-PUN-10324,2024-04-19,Balewadi,Kunal Aspiree,Apartment,6740000,789,2
+TXN-MH-PUN-10325,2025-02-25,Balewadi,Naiknavare Avon Vista,Apartment,7260000,836,2
+TXN-MH-PUN-10326,2024-07-27,Balewadi,Mantra Monarch,Apartment,7320000,850,2
+TXN-MH-PUN-10327,2024-07-07,Balewadi,Naiknavare Avon Vista,Apartment,8590000,984,2
+TXN-MH-PUN-10328,2024-05-06,Balewadi,F Residences,Apartment,12290000,1516,3
+TXN-MH-PUN-10329,2025-04-20,Bavdhan,Puraniks Abitante,Apartment,4400000,551,1
+TXN-MH-PUN-10330,2025-08-02,Bavdhan,Nyati Equator,Apartment,6910000,863,2
+TXN-MH-PUN-10331,2025-06-01,Bavdhan,Goel Ganga Legend,Apartment,10420000,1286,3
+TXN-MH-PUN-10332,2025-09-13,Bavdhan,Nyati Equator,Apartment,12600000,1494,3
+TXN-MH-PUN-10333,2025-08-22,Bavdhan,Pebbles Urban Living,Apartment,4640000,539,1
+TXN-MH-PUN-10334,2025-10-14,Bavdhan,Puraniks Abitante,Apartment,6760000,804,2
+TXN-MH-PUN-10335,2025-08-13,Bavdhan,Goel Ganga Legend,Apartment,6710000,822,2
+TXN-MH-PUN-10336,2026-01-03,Bavdhan,Goel Ganga Legend,Apartment,6370000,788,2
+TXN-MH-PUN-10337,2025-06-04,Bavdhan,Nyati Equator,Apartment,6700000,773,2
+TXN-MH-PUN-10338,2026-03-27,Bavdhan,Nyati Equator,Apartment,10600000,1309,3
+TXN-MH-PUN-10339,2025-08-22,Bavdhan,Goel Ganga Legend,Apartment,8910000,1022,2
+TXN-MH-PUN-10340,2025-11-12,Bavdhan,Pebbles Urban Living,Apartment,12540000,1540,3
+TXN-MH-PUN-10341,2025-07-15,Bavdhan,Shapoorji Pallonji Vanaha,Apartment,8870000,1032,2
+TXN-MH-PUN-10342,2025-08-14,Bavdhan,Nyati Equator,Apartment,7860000,906,2
+TXN-MH-PUN-10343,2025-04-19,Bavdhan,Goel Ganga Legend,Apartment,4700000,554,1
+TXN-MH-PUN-10344,2025-07-04,Bavdhan,Shapoorji Pallonji Vanaha,Apartment,7330000,880,2
+TXN-MH-PUN-10345,2025-10-22,Bavdhan,Goel Ganga Legend,Apartment,10700000,1289,3
+TXN-MH-PUN-10346,2025-09-12,Bavdhan,Goel Ganga Legend,Apartment,6670000,809,2
+TXN-MH-PUN-10347,2025-04-25,Bavdhan,Puraniks Abitante,Apartment,7960000,998,2
+TXN-MH-PUN-10348,2026-01-10,Bavdhan,Nyati Equator,Apartment,10520000,1234,3
+TXN-MH-PUN-10349,2025-09-19,Bavdhan,Nyati Equator,Apartment,9960000,1188,3
+TXN-MH-PUN-10350,2025-09-21,Bavdhan,Pebbles Urban Living,Apartment,4980000,610,1
+TXN-MH-PUN-10351,2025-12-05,Bavdhan,Puraniks Abitante,Apartment,6680000,819,2
+TXN-MH-PUN-10352,2025-10-08,Bavdhan,Pebbles Urban Living,Apartment,6270000,752,2
+TXN-MH-PUN-10353,2026-02-09,Bavdhan,Nyati Equator,Apartment,4710000,571,1
+TXN-MH-PUN-10354,2025-08-03,Bavdhan,Shapoorji Pallonji Vanaha,Apartment,4390000,530,1
+TXN-MH-PUN-10355,2025-06-14,Bavdhan,Shapoorji Pallonji Vanaha,Apartment,7490000,858,2
+TXN-MH-PUN-10356,2025-04-19,Bavdhan,Nyati Equator,Apartment,4920000,610,1
+TXN-MH-PUN-10357,2025-05-15,Bavdhan,Nyati Equator,Apartment,7430000,854,2
+TXN-MH-PUN-10358,2024-10-10,Bavdhan,Goel Ganga Legend,Apartment,11600000,1426,3
+TXN-MH-PUN-10359,2024-09-18,Bavdhan,Puraniks Abitante,Apartment,5590000,734,2
+TXN-MH-PUN-10360,2025-01-20,Bavdhan,Pebbles Urban Living,Apartment,7660000,1022,2
+TXN-MH-PUN-10361,2024-07-15,Bavdhan,Pebbles Urban Living,Apartment,8070000,1042,2
+TXN-MH-PUN-10362,2024-08-24,Bavdhan,Pebbles Urban Living,Apartment,7700000,985,2
+TXN-MH-PUN-10363,2025-03-25,Bavdhan,Puraniks Abitante,Apartment,5720000,762,2
+TXN-MH-PUN-10364,2024-11-02,Bavdhan,Nyati Equator,Apartment,8880000,1162,3
+TXN-MH-PUN-10365,2024-08-17,Bavdhan,Goel Ganga Legend,Apartment,6710000,854,2
+TXN-MH-PUN-10366,2024-08-21,Bavdhan,Pebbles Urban Living,Apartment,10980000,1442,3
+TXN-MH-PUN-10367,2024-07-16,Bavdhan,Shapoorji Pallonji Vanaha,Apartment,6700000,868,2
+TXN-MH-PUN-10368,2024-07-27,Bavdhan,Goel Ganga Legend,Apartment,6420000,842,2
+TXN-MH-PUN-10369,2024-09-30,Bavdhan,Nyati Equator,Apartment,3990000,533,1
+TXN-MH-PUN-10370,2024-06-18,Bavdhan,Goel Ganga Legend,Apartment,7830000,1004,2
+TXN-MH-PUN-10371,2025-03-21,Bavdhan,Goel Ganga Legend,Apartment,7760000,969,2
+TXN-MH-PUN-10372,2024-12-01,Bavdhan,Pebbles Urban Living,Apartment,5580000,754,2
+TXN-MH-PUN-10373,2025-03-03,Bavdhan,Goel Ganga Legend,Apartment,8340000,1032,2
+TXN-MH-PUN-10374,2024-04-15,Bavdhan,Puraniks Abitante,Apartment,4470000,566,1
+TXN-MH-PUN-10375,2024-05-26,Bavdhan,Pebbles Urban Living,Apartment,4430000,558,1
+TXN-MH-PUN-10376,2024-09-18,Bavdhan,Pebbles Urban Living,Apartment,5800000,787,2
+TXN-MH-PUN-10377,2025-03-27,Bavdhan,Puraniks Abitante,Apartment,7870000,979,2
+TXN-MH-PUN-10378,2024-07-08,Bavdhan,Shapoorji Pallonji Vanaha,Apartment,5530000,739,2
+TXN-MH-PUN-10379,2024-06-27,Bavdhan,Puraniks Abitante,Apartment,7580000,975,2
+TXN-MH-PUN-10380,2025-02-07,Bavdhan,Pebbles Urban Living,Apartment,11010000,1466,3
+TXN-MH-PUN-10381,2024-05-13,Bavdhan,Pebbles Urban Living,Apartment,10610000,1387,3
+TXN-MH-PUN-10382,2024-09-23,Bavdhan,Nyati Equator,Apartment,10550000,1352,3
+TXN-MH-PUN-10383,2025-03-08,Bavdhan,Goel Ganga Legend,Apartment,8030000,1044,2
+TXN-MH-PUN-10384,2024-05-14,Bavdhan,Shapoorji Pallonji Vanaha,Apartment,6080000,762,2
+TXN-MH-PUN-10385,2024-12-23,Bavdhan,Shapoorji Pallonji Vanaha,Apartment,7570000,996,2
+TXN-MH-PUN-10386,2024-10-07,Bavdhan,Pebbles Urban Living,Apartment,4720000,611,1
+TXN-MH-PUN-10387,2024-05-12,Bavdhan,Puraniks Abitante,Apartment,7460000,947,2
+TXN-MH-PUN-10388,2024-04-15,Bavdhan,Shapoorji Pallonji Vanaha,Apartment,5910000,765,2
+TXN-MH-PUN-10389,2025-05-21,Aundh,Kalpataru Harmony,Apartment,9660000,867,2
+TXN-MH-PUN-10390,2025-06-12,Aundh,Kalpataru Harmony,Apartment,6340000,528,1
+TXN-MH-PUN-10391,2026-03-22,Aundh,Kalpataru Harmony,Apartment,14490000,1315,3
+TXN-MH-PUN-10392,2025-08-10,Aundh,Kalpataru Harmony,Apartment,16430000,1410,3
+TXN-MH-PUN-10393,2025-04-14,Aundh,Kalpataru Harmony,Apartment,9690000,840,2
+TXN-MH-PUN-10394,2025-06-14,Aundh,Rohan Nilay,Apartment,16970000,1547,3
+TXN-MH-PUN-10395,2026-02-24,Aundh,Chateaux De Aundh,Apartment,9790000,892,2
+TXN-MH-PUN-10396,2025-07-13,Aundh,Rohan Nilay,Apartment,16860000,1524,3
+TXN-MH-PUN-10397,2025-05-27,Aundh,Pride Regalia,Apartment,17590000,1524,3
+TXN-MH-PUN-10398,2026-01-15,Aundh,Pride Regalia,Apartment,11630000,1022,2
+TXN-MH-PUN-10399,2026-03-20,Aundh,Kalpataru Harmony,Apartment,5690000,504,1
+TXN-MH-PUN-10400,2025-06-12,Aundh,Chateaux De Aundh,Apartment,9410000,782,2
+TXN-MH-PUN-10401,2025-12-15,Aundh,Pride Regalia,Apartment,14260000,1200,3
+TXN-MH-PUN-10402,2025-11-15,Aundh,Pride Regalia,Apartment,18500000,1540,3
+TXN-MH-PUN-10403,2025-10-17,Aundh,Pride Regalia,Apartment,9460000,819,2
+TXN-MH-PUN-10404,2026-01-04,Aundh,Sneh Residency,Apartment,17710000,1509,3
+TXN-MH-PUN-10405,2025-08-20,Aundh,Kalpataru Harmony,Apartment,11390000,1004,2
+TXN-MH-PUN-10406,2025-10-25,Aundh,Pride Regalia,Apartment,5880000,534,1
+TXN-MH-PUN-10407,2026-03-06,Aundh,Chateaux De Aundh,Apartment,9110000,783,2
+TXN-MH-PUN-10408,2025-07-13,Aundh,Pride Regalia,Apartment,8160000,731,2
+TXN-MH-PUN-10409,2025-10-06,Aundh,Sneh Residency,Apartment,10150000,846,2
+TXN-MH-PUN-10410,2025-08-08,Aundh,Sneh Residency,Apartment,11440000,1042,2
+TXN-MH-PUN-10411,2025-06-11,Aundh,Pride Regalia,Apartment,5790000,500,1
+TXN-MH-PUN-10412,2026-01-16,Aundh,Rohan Nilay,Apartment,11890000,1021,2
+TXN-MH-PUN-10413,2025-11-12,Aundh,Rohan Nilay,Apartment,17820000,1495,3
+TXN-MH-PUN-10414,2025-09-20,Aundh,Chateaux De Aundh,Apartment,11390000,1033,2
+TXN-MH-PUN-10415,2026-03-12,Aundh,Rohan Nilay,Apartment,10500000,924,2
+TXN-MH-PUN-10416,2025-11-12,Aundh,Rohan Nilay,Apartment,10850000,974,2
+TXN-MH-PUN-10417,2025-12-02,Aundh,Rohan Nilay,Apartment,8880000,777,2
+TXN-MH-PUN-10418,2025-12-18,Aundh,Sneh Residency,Apartment,8840000,795,2
+TXN-MH-PUN-10419,2025-05-10,Aundh,Sneh Residency,Apartment,11390000,991,2
+TXN-MH-PUN-10420,2025-07-11,Aundh,Kalpataru Harmony,Apartment,10180000,891,2
+TXN-MH-PUN-10421,2025-09-22,Aundh,Sneh Residency,Apartment,10140000,889,2
+TXN-MH-PUN-10422,2025-12-19,Aundh,Sneh Residency,Apartment,8300000,742,2
+TXN-MH-PUN-10423,2026-03-25,Aundh,Chateaux De Aundh,Apartment,6450000,563,1
+TXN-MH-PUN-10424,2024-04-23,Aundh,Sneh Residency,Apartment,10510000,956,2
+TXN-MH-PUN-10425,2024-09-14,Aundh,Chateaux De Aundh,Apartment,9870000,933,2
+TXN-MH-PUN-10426,2024-11-17,Aundh,Chateaux De Aundh,Apartment,15290000,1458,3
+TXN-MH-PUN-10427,2024-12-14,Aundh,Kalpataru Harmony,Apartment,10450000,938,2
+TXN-MH-PUN-10428,2025-01-22,Aundh,Rohan Nilay,Apartment,9880000,927,2
+TXN-MH-PUN-10429,2024-11-05,Aundh,Pride Regalia,Apartment,9960000,963,2
+TXN-MH-PUN-10430,2024-06-12,Aundh,Chateaux De Aundh,Apartment,5760000,534,1
+TXN-MH-PUN-10431,2024-10-23,Aundh,Pride Regalia,Apartment,15070000,1448,3
+TXN-MH-PUN-10432,2024-05-27,Aundh,Pride Regalia,Apartment,15180000,1470,3
+TXN-MH-PUN-10433,2024-12-22,Aundh,Rohan Nilay,Apartment,9020000,816,2
+TXN-MH-PUN-10434,2024-06-03,Aundh,Chateaux De Aundh,Apartment,10450000,995,2
+TXN-MH-PUN-10435,2024-06-30,Aundh,Chateaux De Aundh,Apartment,5680000,546,1
+TXN-MH-PUN-10436,2024-10-18,Aundh,Rohan Nilay,Apartment,6280000,578,1
+TXN-MH-PUN-10437,2024-10-30,Aundh,Pride Regalia,Apartment,8140000,743,2
+TXN-MH-PUN-10438,2024-09-11,Aundh,Chateaux De Aundh,Apartment,13540000,1232,3
+TXN-MH-PUN-10439,2024-06-24,Aundh,Rohan Nilay,Apartment,8230000,799,2
+TXN-MH-PUN-10440,2024-06-27,Aundh,Kalpataru Harmony,Apartment,10450000,957,2
+TXN-MH-PUN-10441,2024-04-06,Aundh,Pride Regalia,Apartment,8440000,823,2
+TXN-MH-PUN-10442,2024-08-13,Aundh,Kalpataru Harmony,Apartment,10400000,1003,2
+TXN-MH-PUN-10443,2024-11-16,Aundh,Kalpataru Harmony,Apartment,15490000,1455,3
+TXN-MH-PUN-10444,2025-03-31,Aundh,Chateaux De Aundh,Apartment,15070000,1399,3
+TXN-MH-PUN-10445,2024-08-09,Aundh,Kalpataru Harmony,Apartment,16500000,1505,3
+TXN-MH-PUN-10446,2024-04-06,Aundh,Kalpataru Harmony,Apartment,6150000,579,1
+TXN-MH-PUN-10447,2025-01-04,Aundh,Kalpataru Harmony,Apartment,9470000,883,2
+TXN-MH-PUN-10448,2024-05-10,Aundh,Kalpataru Harmony,Apartment,16000000,1545,3
+TXN-MH-PUN-10449,2024-11-30,Aundh,Pride Regalia,Apartment,16400000,1467,3
+TXN-MH-PUN-10450,2025-12-30,Wagholi,Kolte Patil Ivy Estate,Apartment,5870000,1013,2
+TXN-MH-PUN-10451,2026-03-09,Wagholi,Majestique City,Apartment,5340000,927,2
+TXN-MH-PUN-10452,2025-06-21,Wagholi,Nyati Elan,Apartment,5110000,903,2
+TXN-MH-PUN-10453,2026-03-13,Wagholi,Kolte Patil Ivy Estate,Apartment,3290000,568,1
+TXN-MH-PUN-10454,2025-12-27,Wagholi,Kolte Patil Ivy Estate,Apartment,5640000,995,2
+TXN-MH-PUN-10455,2025-07-06,Wagholi,Kolte Patil Ivy Estate,Apartment,9390000,1541,3
+TXN-MH-PUN-10456,2025-09-01,Wagholi,Varia Valley View,Apartment,4620000,766,2
+TXN-MH-PUN-10457,2026-03-19,Wagholi,Majestique City,Apartment,4750000,832,2
+TXN-MH-PUN-10458,2026-01-09,Wagholi,Kolte Patil Ivy Estate,Apartment,4910000,861,2
+TXN-MH-PUN-10459,2025-08-17,Wagholi,Varia Valley View,Apartment,5510000,911,2
+TXN-MH-PUN-10460,2025-08-11,Wagholi,Nyati Elan,Apartment,3000000,509,1
+TXN-MH-PUN-10461,2025-06-15,Wagholi,Nyati Elan,Apartment,2980000,509,1
+TXN-MH-PUN-10462,2025-08-02,Wagholi,Varia Valley View,Apartment,3430000,593,1
+TXN-MH-PUN-10463,2025-06-08,Wagholi,Varia Valley View,Apartment,4530000,798,2
+TXN-MH-PUN-10464,2025-10-10,Wagholi,Rohan Abhilasha,Apartment,5180000,855,2
+TXN-MH-PUN-10465,2026-03-25,Wagholi,Varia Valley View,Apartment,4430000,764,2
+TXN-MH-PUN-10466,2026-03-29,Wagholi,Varia Valley View,Apartment,7470000,1311,3
+TXN-MH-PUN-10467,2025-05-06,Wagholi,Varia Valley View,Apartment,6060000,1039,2
+TXN-MH-PUN-10468,2025-06-26,Wagholi,Kolte Patil Ivy Estate,Apartment,4580000,786,2
+TXN-MH-PUN-10469,2026-02-26,Wagholi,Majestique City,Apartment,4760000,789,2
+TXN-MH-PUN-10470,2025-07-10,Wagholi,Varia Valley View,Apartment,4610000,807,2
+TXN-MH-PUN-10471,2025-08-25,Wagholi,Kolte Patil Ivy Estate,Apartment,7710000,1355,3
+TXN-MH-PUN-10472,2025-05-02,Wagholi,Rohan Abhilasha,Apartment,5570000,999,2
+TXN-MH-PUN-10473,2026-01-11,Wagholi,Kolte Patil Ivy Estate,Apartment,4900000,863,2
+TXN-MH-PUN-10474,2025-04-27,Wagholi,Majestique City,Apartment,9180000,1516,3
+TXN-MH-PUN-10475,2026-02-11,Wagholi,Majestique City,Apartment,3440000,600,1
+TXN-MH-PUN-10476,2025-05-15,Wagholi,Kolte Patil Ivy Estate,Apartment,5200000,924,2
+TXN-MH-PUN-10477,2025-12-22,Wagholi,Varia Valley View,Apartment,6930000,1192,3
+TXN-MH-PUN-10478,2025-04-17,Wagholi,Kolte Patil Ivy Estate,Apartment,6050000,1009,2
+TXN-MH-PUN-10479,2025-07-15,Wagholi,Nyati Elan,Apartment,5200000,924,2
+TXN-MH-PUN-10480,2025-10-02,Wagholi,Nyati Elan,Apartment,4670000,798,2
+TXN-MH-PUN-10481,2026-01-13,Wagholi,Rohan Abhilasha,Apartment,6060000,994,2
+TXN-MH-PUN-10482,2025-07-02,Wagholi,Varia Valley View,Apartment,4770000,801,2
+TXN-MH-PUN-10483,2026-01-16,Wagholi,Rohan Abhilasha,Apartment,5090000,831,2
+TXN-MH-PUN-10484,2025-03-26,Wagholi,Varia Valley View,Apartment,6390000,1212,3
+TXN-MH-PUN-10485,2024-06-21,Wagholi,Majestique City,Apartment,5220000,930,2
+TXN-MH-PUN-10486,2025-02-14,Wagholi,Kolte Patil Ivy Estate,Apartment,4830000,923,2
+TXN-MH-PUN-10487,2024-09-23,Wagholi,Rohan Abhilasha,Apartment,5490000,979,2
+TXN-MH-PUN-10488,2025-01-07,Wagholi,Nyati Elan,Apartment,4220000,802,2
+TXN-MH-PUN-10489,2025-03-13,Wagholi,Majestique City,Apartment,5080000,920,2
+TXN-MH-PUN-10490,2024-12-16,Wagholi,Kolte Patil Ivy Estate,Apartment,5500000,1022,2
+TXN-MH-PUN-10491,2025-01-24,Wagholi,Varia Valley View,Apartment,2890000,549,1
+TXN-MH-PUN-10492,2024-08-23,Wagholi,Nyati Elan,Apartment,3340000,597,1
+TXN-MH-PUN-10493,2024-10-09,Wagholi,Nyati Elan,Apartment,3840000,736,2
+TXN-MH-PUN-10494,2025-02-18,Wagholi,Nyati Elan,Apartment,5000000,962,2
+TXN-MH-PUN-10495,2025-01-16,Wagholi,Rohan Abhilasha,Apartment,4670000,895,2
+TXN-MH-PUN-10496,2025-03-16,Wagholi,Majestique City,Apartment,2880000,527,1
+TXN-MH-PUN-10497,2024-05-08,Wagholi,Kolte Patil Ivy Estate,Apartment,4990000,929,2
+TXN-MH-PUN-10498,2024-11-20,Wagholi,Rohan Abhilasha,Apartment,3840000,740,2
+TXN-MH-PUN-10499,2025-03-21,Wagholi,Kolte Patil Ivy Estate,Apartment,7930000,1505,3
+TXN-MH-PUN-10500,2025-03-21,Wagholi,Rohan Abhilasha,Apartment,2870000,516,1
+TXN-MH-PUN-10501,2024-07-16,Wagholi,Varia Valley View,Apartment,5300000,1024,2
+TXN-MH-PUN-10502,2024-05-14,Wagholi,Majestique City,Apartment,2590000,506,1
+TXN-MH-PUN-10503,2024-10-10,Wagholi,Kolte Patil Ivy Estate,Apartment,3180000,618,1
+TXN-MH-PUN-10504,2025-01-08,Wagholi,Nyati Elan,Apartment,4050000,748,2
+TXN-MH-PUN-10505,2025-03-09,Wagholi,Rohan Abhilasha,Apartment,5420000,1011,2
+TXN-MH-PUN-10506,2025-04-25,Pimple Saudagar,Rose Icon,Apartment,6870000,867,2
+TXN-MH-PUN-10507,2025-07-05,Pimple Saudagar,Roseland Residency,Apartment,7500000,977,2
+TXN-MH-PUN-10508,2026-03-14,Pimple Saudagar,G K Rose Valley,Apartment,9750000,1248,3
+TXN-MH-PUN-10509,2025-04-29,Pimple Saudagar,G K Rose Valley,Apartment,12260000,1502,3
+TXN-MH-PUN-10510,2025-11-24,Pimple Saudagar,Kunal Icon,Apartment,6650000,821,2
+TXN-MH-PUN-10511,2025-10-25,Pimple Saudagar,Daffodils Society,Apartment,8130000,1045,2
+TXN-MH-PUN-10512,2025-05-27,Pimple Saudagar,Kunal Icon,Apartment,7250000,902,2
+TXN-MH-PUN-10513,2025-12-10,Pimple Saudagar,G K Rose Valley,Apartment,4250000,525,1
+TXN-MH-PUN-10514,2025-04-19,Pimple Saudagar,Rose Icon,Apartment,4550000,575,1
+TXN-MH-PUN-10515,2025-06-21,Pimple Saudagar,Rose Icon,Apartment,4890000,619,1
+TXN-MH-PUN-10516,2025-09-17,Pimple Saudagar,Daffodils Society,Apartment,7920000,965,2
+TXN-MH-PUN-10517,2025-09-20,Pimple Saudagar,Rose Icon,Apartment,8240000,1037,2
+TXN-MH-PUN-10518,2026-03-17,Pimple Saudagar,Roseland Residency,Apartment,11100000,1397,3
+TXN-MH-PUN-10519,2025-12-26,Pimple Saudagar,Rose Icon,Apartment,7980000,1049,2
+TXN-MH-PUN-10520,2025-08-01,Pimple Saudagar,Rose Icon,Apartment,7370000,890,2
+TXN-MH-PUN-10521,2026-03-18,Pimple Saudagar,Rose Icon,Apartment,8220000,1039,2
+TXN-MH-PUN-10522,2025-11-01,Pimple Saudagar,Rose Icon,Apartment,5940000,779,2
+TXN-MH-PUN-10523,2026-01-06,Pimple Saudagar,Roseland Residency,Apartment,6830000,840,2
+TXN-MH-PUN-10524,2025-05-09,Pimple Saudagar,G K Rose Valley,Apartment,5600000,730,2
+TXN-MH-PUN-10525,2025-11-15,Pimple Saudagar,Daffodils Society,Apartment,6660000,852,2
+TXN-MH-PUN-10526,2025-05-26,Pimple Saudagar,Kunal Icon,Apartment,7590000,931,2
+TXN-MH-PUN-10527,2025-09-30,Pimple Saudagar,Kunal Icon,Apartment,12450000,1527,3
+TXN-MH-PUN-10528,2025-12-21,Pimple Saudagar,Rose Icon,Apartment,11510000,1489,3
+TXN-MH-PUN-10529,2025-07-05,Pimple Saudagar,Kunal Icon,Apartment,7570000,945,2
+TXN-MH-PUN-10530,2025-08-03,Pimple Saudagar,G K Rose Valley,Apartment,12330000,1547,3
+TXN-MH-PUN-10531,2026-03-07,Pimple Saudagar,G K Rose Valley,Apartment,10110000,1310,3
+TXN-MH-PUN-10532,2026-03-09,Pimple Saudagar,Kunal Icon,Apartment,10610000,1361,3
+TXN-MH-PUN-10533,2026-03-26,Pimple Saudagar,Rose Icon,Apartment,10990000,1329,3
+TXN-MH-PUN-10534,2025-11-19,Pimple Saudagar,Rose Icon,Apartment,7670000,983,2
+TXN-MH-PUN-10535,2025-10-02,Pimple Saudagar,Rose Icon,Apartment,6260000,777,2
+TXN-MH-PUN-10536,2025-09-02,Pimple Saudagar,Rose Icon,Apartment,6680000,854,2
+TXN-MH-PUN-10537,2025-06-08,Pimple Saudagar,Kunal Icon,Apartment,4440000,540,1
+TXN-MH-PUN-10538,2026-03-26,Pimple Saudagar,Daffodils Society,Apartment,7070000,867,2
+TXN-MH-PUN-10539,2024-07-03,Pimple Saudagar,Roseland Residency,Apartment,5130000,726,2
+TXN-MH-PUN-10540,2024-04-24,Pimple Saudagar,G K Rose Valley,Apartment,6600000,946,2
+TXN-MH-PUN-10541,2024-05-08,Pimple Saudagar,Daffodils Society,Apartment,4240000,561,1
+TXN-MH-PUN-10542,2024-09-10,Pimple Saudagar,Roseland Residency,Apartment,5770000,795,2
+TXN-MH-PUN-10543,2024-05-17,Pimple Saudagar,Kunal Icon,Apartment,8940000,1178,3
+TXN-MH-PUN-10544,2025-02-24,Pimple Saudagar,Roseland Residency,Apartment,6720000,916,2
+TXN-MH-PUN-10545,2024-05-22,Pimple Saudagar,G K Rose Valley,Apartment,5700000,769,2
+TXN-MH-PUN-10546,2025-03-14,Pimple Saudagar,G K Rose Valley,Apartment,7560000,1036,2
+TXN-MH-PUN-10547,2024-12-27,Pimple Saudagar,Rose Icon,Apartment,5890000,819,2
+TXN-MH-PUN-10548,2024-08-07,Pimple Saudagar,Kunal Icon,Apartment,3680000,494,1
+TXN-MH-PUN-10549,2024-06-30,Pimple Saudagar,Kunal Icon,Apartment,5380000,726,2
+TXN-MH-PUN-10550,2025-01-21,Pimple Saudagar,G K Rose Valley,Apartment,6650000,892,2
+TXN-MH-PUN-10551,2024-12-10,Pimple Saudagar,Roseland Residency,Apartment,5550000,753,2
+TXN-MH-PUN-10552,2024-06-21,Pimple Saudagar,Kunal Icon,Apartment,4370000,601,1
+TXN-MH-PUN-10553,2024-10-25,Pimple Saudagar,Roseland Residency,Apartment,6450000,856,2
+TXN-MH-PUN-10554,2025-03-06,Pimple Saudagar,Daffodils Society,Apartment,6390000,920,2
+TXN-MH-PUN-10555,2025-02-13,Pimple Saudagar,Kunal Icon,Apartment,10550000,1519,3
+TXN-MH-PUN-10556,2025-02-25,Pimple Saudagar,G K Rose Valley,Apartment,9390000,1228,3
+TXN-MH-PUN-10557,2024-04-23,Pimple Saudagar,Roseland Residency,Apartment,4210000,557,1
+TXN-MH-PUN-10558,2024-08-31,Pimple Saudagar,G K Rose Valley,Apartment,6460000,878,2
+TXN-MH-PUN-10559,2024-12-13,Pimple Saudagar,Rose Icon,Apartment,5380000,770,2
+TXN-MH-PUN-10560,2024-09-20,Pimple Saudagar,G K Rose Valley,Apartment,9930000,1359,3
+TXN-MH-PUN-10561,2024-04-09,Pimple Saudagar,Rose Icon,Apartment,9520000,1274,3
+TXN-MH-PUN-10562,2024-06-20,Pimple Saudagar,Kunal Icon,Apartment,6140000,844,2
+TXN-MH-PUN-10563,2025-03-12,Pimple Saudagar,Rose Icon,Apartment,7310000,1031,2
+TXN-MH-PUN-10564,2025-02-05,Pimple Saudagar,Daffodils Society,Apartment,5580000,785,2
+TXN-MH-PUN-10565,2024-05-05,Pimple Saudagar,Rose Icon,Apartment,9950000,1397,3
+TXN-MH-PUN-10566,2025-12-01,Kothrud,Rambaug Housing,Apartment,13230000,1045,2
+TXN-MH-PUN-10567,2025-04-27,Kothrud,Rambaug Housing,Apartment,10820000,822,2
+TXN-MH-PUN-10568,2025-04-10,Kothrud,Rambaug Housing,Apartment,12570000,968,2
+TXN-MH-PUN-10569,2026-02-02,Kothrud,Bhairav Residency,Apartment,10820000,824,2
+TXN-MH-PUN-10570,2025-08-07,Kothrud,Bhairav Residency,Apartment,13120000,1034,2
+TXN-MH-PUN-10571,2025-05-22,Kothrud,Bhairav Residency,Apartment,10360000,813,2
+TXN-MH-PUN-10572,2025-09-13,Kothrud,Kulkarni Sobha Carnation,Apartment,7440000,576,1
+TXN-MH-PUN-10573,2025-08-30,Kothrud,Kulkarni Sobha Carnation,Apartment,12530000,947,2
+TXN-MH-PUN-10574,2025-07-21,Kothrud,Rohan Madhuban,Apartment,6930000,519,1
+TXN-MH-PUN-10575,2025-05-10,Kothrud,Rohan Madhuban,Apartment,12180000,970,2
+TXN-MH-PUN-10576,2026-01-05,Kothrud,Dahanukar Colony Enclave,Apartment,10460000,801,2
+TXN-MH-PUN-10577,2025-10-11,Kothrud,Bhairav Residency,Apartment,13310000,999,2
+TXN-MH-PUN-10578,2026-02-06,Kothrud,Kulkarni Sobha Carnation,Apartment,9450000,727,2
+TXN-MH-PUN-10579,2026-01-11,Kothrud,Dahanukar Colony Enclave,Apartment,6800000,493,1
+TXN-MH-PUN-10580,2026-02-24,Kothrud,Rohan Madhuban,Apartment,9850000,727,2
+TXN-MH-PUN-10581,2025-11-17,Kothrud,Rohan Madhuban,Apartment,12180000,885,2
+TXN-MH-PUN-10582,2026-03-17,Kothrud,Bhairav Residency,Apartment,8100000,617,1
+TXN-MH-PUN-10583,2025-08-01,Kothrud,Dahanukar Colony Enclave,Apartment,8180000,591,1
+TXN-MH-PUN-10584,2025-10-05,Kothrud,Kulkarni Sobha Carnation,Apartment,9900000,725,2
+TXN-MH-PUN-10585,2026-03-23,Kothrud,Rohan Madhuban,Apartment,10130000,769,2
+TXN-MH-PUN-10586,2026-03-26,Kothrud,Kulkarni Sobha Carnation,Apartment,6870000,498,1
+TXN-MH-PUN-10587,2025-05-04,Kothrud,Rohan Madhuban,Apartment,9630000,735,2
+TXN-MH-PUN-10588,2026-03-22,Kothrud,Kulkarni Sobha Carnation,Apartment,14180000,1026,2
+TXN-MH-PUN-10589,2026-02-08,Kothrud,Rohan Madhuban,Apartment,12590000,959,2
+TXN-MH-PUN-10590,2025-07-30,Kothrud,Kulkarni Sobha Carnation,Apartment,16460000,1261,3
+TXN-MH-PUN-10591,2025-06-08,Kothrud,Dahanukar Colony Enclave,Apartment,16040000,1240,3
+TXN-MH-PUN-10592,2025-12-17,Kothrud,Kulkarni Sobha Carnation,Apartment,9350000,730,2
+TXN-MH-PUN-10593,2025-12-03,Kothrud,Rambaug Housing,Apartment,11430000,887,2
+TXN-MH-PUN-10594,2025-09-15,Kothrud,Dahanukar Colony Enclave,Apartment,11290000,837,2
+TXN-MH-PUN-10595,2026-02-06,Kothrud,Dahanukar Colony Enclave,Apartment,10010000,753,2
+TXN-MH-PUN-10596,2025-12-27,Kothrud,Rohan Madhuban,Apartment,16050000,1235,3
+TXN-MH-PUN-10597,2025-05-16,Kothrud,Kulkarni Sobha Carnation,Apartment,11600000,902,2
+TXN-MH-PUN-10598,2025-01-20,Kothrud,Rambaug Housing,Apartment,6470000,521,1
+TXN-MH-PUN-10599,2024-12-07,Kothrud,Rohan Madhuban,Apartment,11180000,920,2
+TXN-MH-PUN-10600,2024-05-30,Kothrud,Bhairav Residency,Apartment,10650000,893,2
+TXN-MH-PUN-10601,2024-08-05,Kothrud,Bhairav Residency,Apartment,10770000,895,2
+TXN-MH-PUN-10602,2024-07-06,Kothrud,Kulkarni Sobha Carnation,Apartment,15800000,1392,3
+TXN-MH-PUN-10603,2025-01-26,Kothrud,Bhairav Residency,Apartment,8780000,755,2
+TXN-MH-PUN-10604,2024-06-10,Kothrud,Kulkarni Sobha Carnation,Apartment,9520000,810,2
+TXN-MH-PUN-10605,2024-07-29,Kothrud,Dahanukar Colony Enclave,Apartment,9910000,847,2
+TXN-MH-PUN-10606,2024-06-13,Kothrud,Kulkarni Sobha Carnation,Apartment,6240000,511,1
+TXN-MH-PUN-10607,2025-01-17,Kothrud,Dahanukar Colony Enclave,Apartment,18410000,1546,3
+TXN-MH-PUN-10608,2025-01-08,Kothrud,Dahanukar Colony Enclave,Apartment,8920000,730,2
+TXN-MH-PUN-10609,2024-05-15,Kothrud,Rambaug Housing,Apartment,17580000,1487,3
+TXN-MH-PUN-10610,2024-07-22,Kothrud,Rambaug Housing,Apartment,18060000,1455,3
+TXN-MH-PUN-10611,2024-04-14,Kothrud,Dahanukar Colony Enclave,Apartment,14510000,1187,3
+TXN-MH-PUN-10612,2024-04-13,Kothrud,Kulkarni Sobha Carnation,Apartment,9340000,764,2
+TXN-MH-PUN-10613,2024-08-06,Kothrud,Rambaug Housing,Apartment,12120000,983,2
+TXN-MH-PUN-10614,2024-08-30,Kothrud,Kulkarni Sobha Carnation,Apartment,11840000,1043,2
+TXN-MH-PUN-10615,2025-02-05,Kothrud,Rambaug Housing,Apartment,10210000,867,2
+TXN-MH-PUN-10616,2024-07-08,Kothrud,Dahanukar Colony Enclave,Apartment,15140000,1224,3
+TXN-MH-PUN-10617,2024-04-19,Kothrud,Bhairav Residency,Apartment,10240000,860,2
+TXN-MH-PUN-10618,2024-10-01,Kothrud,Dahanukar Colony Enclave,Apartment,9680000,843,2
+TXN-MH-PUN-10619,2024-09-24,Kothrud,Rambaug Housing,Apartment,9860000,836,2
+TXN-MH-PUN-10620,2025-03-20,Kothrud,Bhairav Residency,Apartment,11500000,940,2
+TXN-MH-PUN-10621,2025-03-05,Kothrud,Dahanukar Colony Enclave,Apartment,17640000,1537,3
+TXN-MH-PUN-10622,2025-01-24,Kothrud,Dahanukar Colony Enclave,Apartment,9530000,794,2
+TXN-MH-PUN-10623,2024-08-07,Kothrud,Rohan Madhuban,Apartment,14360000,1255,3
+TXN-MH-PUN-10624,2024-04-22,Kothrud,Dahanukar Colony Enclave,Apartment,9670000,805,2
+TXN-MH-PUN-10625,2024-07-17,Kothrud,Kulkarni Sobha Carnation,Apartment,7080000,594,1
+TXN-MH-PUN-10626,2025-07-05,Undri,Godrej Greens,Apartment,3220000,572,1
+TXN-MH-PUN-10627,2025-07-27,Undri,Atur Hermitage,Apartment,4390000,806,2
+TXN-MH-PUN-10628,2025-12-17,Undri,Dynamic Grandeur,Apartment,4980000,956,2
+TXN-MH-PUN-10629,2025-09-14,Undri,Godrej Greens,Apartment,8150000,1455,3
+TXN-MH-PUN-10630,2026-02-22,Undri,Dynamic Grandeur,Apartment,6950000,1342,3
+TXN-MH-PUN-10631,2026-03-12,Undri,Godrej Greens,Apartment,7480000,1411,3
+TXN-MH-PUN-10632,2025-07-22,Undri,Dynamic Grandeur,Apartment,4480000,837,2
+TXN-MH-PUN-10633,2025-07-02,Undri,Godrej Greens,Apartment,8230000,1493,3
+TXN-MH-PUN-10634,2025-05-08,Undri,Nyati Esteban,Apartment,2680000,489,1
+TXN-MH-PUN-10635,2025-05-05,Undri,Dynamic Grandeur,Apartment,4890000,867,2
+TXN-MH-PUN-10636,2026-02-05,Undri,Atur Hermitage,Apartment,7540000,1449,3
+TXN-MH-PUN-10637,2025-10-14,Undri,Dynamic Grandeur,Apartment,5320000,1006,2
+TXN-MH-PUN-10638,2025-11-29,Undri,Atur Hermitage,Apartment,3900000,740,2
+TXN-MH-PUN-10639,2025-07-05,Undri,Dynamic Grandeur,Apartment,5190000,949,2
+TXN-MH-PUN-10640,2026-03-31,Undri,Dynamic Grandeur,Apartment,4590000,848,2
+TXN-MH-PUN-10641,2025-11-01,Undri,Nyati Esteban,Apartment,4610000,815,2
+TXN-MH-PUN-10642,2025-08-07,Undri,Dynamic Grandeur,Apartment,7550000,1358,3
+TXN-MH-PUN-10643,2025-12-11,Undri,Godrej Greens,Apartment,5920000,1046,2
+TXN-MH-PUN-10644,2025-04-12,Undri,Atur Hermitage,Apartment,2960000,544,1
+TXN-MH-PUN-10645,2025-10-03,Undri,Godrej Greens,Apartment,4020000,729,2
+TXN-MH-PUN-10646,2025-09-10,Undri,Atur Hermitage,Apartment,5490000,1006,2
+TXN-MH-PUN-10647,2026-02-12,Undri,Nyati Esteban,Apartment,7000000,1359,3
+TXN-MH-PUN-10648,2025-12-30,Undri,Godrej Greens,Apartment,5050000,903,2
+TXN-MH-PUN-10649,2025-06-08,Undri,Nyati Esteban,Apartment,3860000,726,2
+TXN-MH-PUN-10650,2025-09-28,Undri,Nyati Esteban,Apartment,4930000,952,2
+TXN-MH-PUN-10651,2025-06-12,Undri,Atur Hermitage,Apartment,3950000,747,2
+TXN-MH-PUN-10652,2025-06-18,Undri,Godrej Greens,Apartment,5680000,1040,2
+TXN-MH-PUN-10653,2025-04-15,Undri,Dynamic Grandeur,Apartment,5240000,949,2
+TXN-MH-PUN-10654,2024-12-23,Undri,Godrej Greens,Apartment,3200000,613,1
+TXN-MH-PUN-10655,2025-02-13,Undri,Dynamic Grandeur,Apartment,4840000,969,2
+TXN-MH-PUN-10656,2024-10-08,Undri,Amit Colori,Apartment,4860000,979,2
+TXN-MH-PUN-10657,2025-01-27,Undri,Dynamic Grandeur,Apartment,7290000,1389,3
+TXN-MH-PUN-10658,2024-06-05,Undri,Godrej Greens,Apartment,3550000,720,2
+TXN-MH-PUN-10659,2025-01-26,Undri,Godrej Greens,Apartment,4180000,814,2
+TXN-MH-PUN-10660,2024-04-12,Undri,Amit Colori,Apartment,7110000,1487,3
+TXN-MH-PUN-10661,2024-08-24,Undri,Godrej Greens,Apartment,2620000,536,1
+TXN-MH-PUN-10662,2024-06-12,Undri,Atur Hermitage,Apartment,3830000,760,2
+TXN-MH-PUN-10663,2024-07-24,Undri,Amit Colori,Apartment,4370000,884,2
+TXN-MH-PUN-10664,2024-09-04,Undri,Atur Hermitage,Apartment,2970000,583,1
+TXN-MH-PUN-10665,2024-11-25,Undri,Dynamic Grandeur,Apartment,5060000,1006,2
+TXN-MH-PUN-10666,2024-04-26,Undri,Godrej Greens,Apartment,4860000,950,2
+TXN-MH-PUN-10667,2025-03-28,Undri,Atur Hermitage,Apartment,3900000,815,2
+TXN-MH-PUN-10668,2024-05-03,Undri,Atur Hermitage,Apartment,5620000,1180,3
+TXN-MH-PUN-10669,2024-09-19,Undri,Atur Hermitage,Apartment,5700000,1172,3
+TXN-MH-PUN-10670,2025-01-16,Undri,Amit Colori,Apartment,4070000,814,2
+TXN-MH-PUN-10671,2024-10-26,Undri,Godrej Greens,Apartment,6510000,1350,3
+TXN-MH-PUN-10672,2024-09-22,Undri,Atur Hermitage,Apartment,2700000,520,1
+TXN-MH-PUN-10673,2025-01-28,Undri,Godrej Greens,Apartment,4580000,939,2
+TXN-MH-PUN-10674,2024-10-08,Undri,Amit Colori,Apartment,4160000,835,2
+TXN-MH-PUN-10675,2025-02-10,Undri,Amit Colori,Apartment,4030000,827,2
+TXN-MH-PUN-10676,2025-02-13,Undri,Dynamic Grandeur,Apartment,2990000,592,1
+TXN-MH-PUN-10677,2024-05-06,Undri,Amit Colori,Apartment,3950000,764,2
+TXN-MH-PUN-10678,2024-04-04,Undri,Dynamic Grandeur,Apartment,4330000,908,2
+TXN-MH-PUN-10679,2024-08-01,Undri,Dynamic Grandeur,Apartment,6940000,1454,3
+TXN-MH-PUN-10680,2024-11-03,Undri,Nyati Esteban,Apartment,3070000,598,1
+TXN-MH-PUN-10681,2024-06-11,Undri,Atur Hermitage,Apartment,2680000,530,1
